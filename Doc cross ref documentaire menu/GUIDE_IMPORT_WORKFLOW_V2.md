@@ -44,8 +44,8 @@ https://hkj0631c.rpcl.app
 
 ```
 Name: Google OAuth2
-Client ID: 670586698862-gbglj4cuefbs6ito0obag1hj86m5sh61.apps.googleusercontent.com
-Client Secret: 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
+Client ID: [YOUR_CLIENT_ID_HERE]
+Client Secret: [YOUR_CLIENT_SECRET_HERE]
 OAuth Redirect URL: https://hkj0631c.rpcl.app/rest/oauth2-credential/callback
 
 Scopes:

@@ -27,10 +27,10 @@
    │ Credential Name: Google Drive OAuth2                                    │
    │                                                                          │
    │ Client ID:                                                               │
-   │ 670586698862-gbglj4cuefbs6ito0obag1hj86m5sh61.apps.googleusercontent.com│
+   │ [YOUR_CLIENT_ID_HERE]                                                   │
    │                                                                          │
    │ Client Secret:                                                           │
-   │ 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                                     │
+   │ [YOUR_CLIENT_SECRET_HERE]                                               │
    │                                                                          │
    │ Scopes (ajouter ces 2 lignes):                                          │
    │ https://www.googleapis.com/auth/drive                                   │
