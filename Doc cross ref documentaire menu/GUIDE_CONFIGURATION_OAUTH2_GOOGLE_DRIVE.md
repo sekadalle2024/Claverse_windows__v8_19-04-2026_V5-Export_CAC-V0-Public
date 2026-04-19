@@ -28,10 +28,10 @@ Remplir les champs suivants :
 Credential Name: Google Drive OAuth2 (ou un nom de votre choix)
 
 Client ID: 
-[YOUR_CLIENT_ID_HERE]
+${GOOGLE_OAUTH_CLIENT_ID}
 
 Client Secret: 
-[YOUR_CLIENT_SECRET_HERE]
+${GOOGLE_OAUTH_CLIENT_SECRET}
 
 OAuth Redirect URL:
 https://your-n8n-instance.app/rest/oauth2-credential/callback

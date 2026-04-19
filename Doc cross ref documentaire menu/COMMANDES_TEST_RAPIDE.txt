@@ -27,10 +27,10 @@
    │ Credential Name: Google Drive OAuth2                                    │
    │                                                                          │
    │ Client ID:                                                               │
-   │ [YOUR_CLIENT_ID_HERE]                                                   │
+   │ ${GOOGLE_OAUTH_CLIENT_ID}                                                │
    │                                                                          │
    │ Client Secret:                                                           │
-   │ [YOUR_CLIENT_SECRET_HERE]                                               │
+   │ ${GOOGLE_OAUTH_CLIENT_SECRET}                                            │
    │                                                                          │
    │ Scopes (ajouter ces 2 lignes):                                          │
    │ https://www.googleapis.com/auth/drive                                   │

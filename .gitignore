@@ -3,6 +3,10 @@
 **/*CREDENTIALS*.txt
 **/*credentials*.txt
 **/*OAUTH*.txt
+.env
+.env.local
+.env.*.local
+.env.google-oauth.local
 
 # Fichiers Python
 __pycache__/
