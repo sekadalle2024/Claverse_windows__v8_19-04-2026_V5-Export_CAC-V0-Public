@@ -334,3 +334,109 @@ Cette documentation est basée sur une expérience réelle. Si vous rencontrez d
 **Dernière mise à jour**: 16 Avril 2026  
 **Version**: 1.3  
 **Statut**: ✅ Documentation validée sur 3 projets (75 MB, 107 MB, 140 MB)
+
+
+---
+
+## 🆕 Organisation Automatique (18 Avril 2026)
+
+### Nouveaux Fichiers
+
+1. **[organiser-fichiers-github.ps1](organiser-fichiers-github.ps1)** ⭐ NOUVEAU
+   - Script PowerShell d'organisation automatique
+   - Déplace les fichiers GitHub de la racine vers Doc_Github_Issue
+   - Rapport détaillé des opérations
+   - Peut être exécuté plusieurs fois
+
+2. **[00_ORGANISATION_FICHIERS_18_AVRIL_2026.txt](00_ORGANISATION_FICHIERS_18_AVRIL_2026.txt)**
+   - Documentation complète de l'organisation
+   - Liste des fichiers organisés
+   - Structure avant/après
+   - Avantages de l'organisation
+
+3. **[GUIDE_ORGANISATION_RAPIDE.md](GUIDE_ORGANISATION_RAPIDE.md)**
+   - Guide d'utilisation du script
+   - Méthode rapide (2 minutes)
+   - Liste détaillée des fichiers concernés
+   - Dépannage
+
+### Utilisation Rapide
+
+```powershell
+cd Doc_Github_Issue
+.\organiser-fichiers-github.ps1
+```
+
+### Fichiers Organisés (31+ fichiers)
+
+**Catégories:**
+- ✓ Diagnostics push GitHub (6 fichiers)
+- ✓ Solutions et guides (5 fichiers)
+- ✓ Scripts de configuration (3 fichiers)
+- ✓ Messages de commit (4 fichiers)
+- ✓ Fichiers de déploiement (9 fichiers)
+- ✓ Récapitulatifs de sessions (4 fichiers)
+
+---
+
+## 📁 Structure du Dossier
+
+```
+Doc_Github_Issue/
+├── 📄 Documentation
+│   ├── README.md (principal)
+│   ├── INDEX.md (ce fichier)
+│   ├── PROBLEMES_RENCONTRES.md
+│   ├── SOLUTIONS_DETAILLEES.md
+│   ├── COMMANDES_REFERENCE.md
+│   ├── SCRIPTS_UTILES.md
+│   ├── CONSEILS_PRATIQUES.md
+│   ├── CONTEXTE_DETAILLE.md
+│   └── RECAPITULATIF_FINAL.md
+│
+├── 🆕 Organisation (18 Avril 2026)
+│   ├── organiser-fichiers-github.ps1 ⭐
+│   ├── 00_ORGANISATION_FICHIERS_18_AVRIL_2026.txt
+│   └── GUIDE_ORGANISATION_RAPIDE.md
+│
+├── 📋 Guides de Démarrage
+│   ├── 00_LIRE_EN_PREMIER.txt
+│   ├── QUICK_START_PUSH_GITHUB.txt
+│   ├── LIRE_MAINTENANT_PUSH_GITHUB.txt
+│   └── ETAPES_GITHUB_DESKTOP_SIMPLE.txt
+│
+├── 🔧 Scripts PowerShell
+│   ├── organiser-fichiers-github.ps1 ⭐ NOUVEAU
+│   ├── push-commits-multiples-*.ps1
+│   ├── push-github-incremental*.ps1
+│   ├── configurer-git.ps1
+│   ├── verifier-avant-sauvegarde.ps1
+│   └── [autres scripts...]
+│
+├── ⚙️ Scripts Batch
+│   ├── deploy-to-github.bat
+│   ├── DEPLOYER_NETLIFY.bat
+│   └── [autres scripts...]
+│
+├── 📊 Diagnostics et Solutions
+│   ├── 00_DIAGNOSTIC_PUSH_GITHUB_*.txt
+│   ├── SOLUTION_PUSH_*.txt
+│   ├── SOLUTION_PROJET_*MB_*.md
+│   └── [autres diagnostics...]
+│
+├── 📝 Récapitulatifs
+│   ├── 00_RECAP_*.txt
+│   ├── RECAPITULATIF_*.md
+│   └── [autres récaps...]
+│
+└── 💾 Sauvegardes
+    ├── 00_SAUVEGARDE_GITHUB_*.txt
+    ├── GUIDE_SAUVEGARDE_*.md
+    └── [autres sauvegardes...]
+```
+
+---
+
+**Dernière mise à jour**: 18 Avril 2026  
+**Version**: 2.0  
+**Statut**: ✅ Organisation automatisée disponible

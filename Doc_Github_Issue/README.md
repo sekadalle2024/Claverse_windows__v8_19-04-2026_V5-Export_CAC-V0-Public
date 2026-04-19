@@ -398,3 +398,64 @@ La solution "Commits multiples" est maintenant validée sur 3 projets différent
 **Dernière mise à jour**: 16 Avril 2026  
 **Version**: 1.3  
 **Statut**: ✅ Documentation complète et validée sur 3 projets
+
+
+---
+
+## 📁 Organisation des Fichiers (18 Avril 2026)
+
+### Nouveau: Script d'Organisation Automatique
+
+Un script PowerShell a été créé pour organiser automatiquement tous les fichiers liés à GitHub qui étaient éparpillés à la racine du projet.
+
+#### Fichiers Organisés
+
+**Diagnostic et Push**
+- 00_DIAGNOSTIC_PUSH_GITHUB_109MB_04_AVRIL_2026.txt
+- 00_PUSH_GITHUB_REUSSI_31_MARS_2026.txt
+- 00_LIRE_EN_PREMIER_PUSH_GITHUB.txt
+- LIRE_MAINTENANT_PUSH_GITHUB.txt
+- QUICK_START_PUSH_GITHUB.txt
+
+**Solutions et Guides**
+- SOLUTION_PUSH_SANS_NODE_MODULES_17_AVRIL_2026.txt
+- SOLUTION_IMMEDIATE_PUSH_17_AVRIL_2026.txt
+- UPLOAD_RUNTIME_TXT_MAIN_BRANCH.txt
+- UPLOAD_MANUEL_RUNTIME_TXT_MAINTENANT.txt
+- ETAPES_GITHUB_DESKTOP_SIMPLE.txt
+
+**Scripts**
+- configurer-git.ps1
+- deploy-to-github.bat
+- organiser-fichiers-github.ps1 ⭐ NOUVEAU
+
+**Déploiement**
+- DEPLOYER_NETLIFY.bat
+- deploy-direct.ps1
+- deploy-maintenant.ps1
+- deploy-netlify-update.ps1
+- deploy-now.ps1
+- deploy-simple.ps1
+
+#### Utilisation du Script
+
+```powershell
+cd Doc_Github_Issue
+.\organiser-fichiers-github.ps1
+```
+
+Le script:
+- ✓ Déplace automatiquement les fichiers de la racine vers Doc_Github_Issue
+- ✓ Vérifie l'existence des fichiers avant de les déplacer
+- ✓ Affiche un rapport détaillé des opérations
+- ✓ Peut être exécuté plusieurs fois sans problème
+
+#### Documentation
+
+Voir [00_ORGANISATION_FICHIERS_18_AVRIL_2026.txt](00_ORGANISATION_FICHIERS_18_AVRIL_2026.txt) pour plus de détails.
+
+---
+
+**Dernière mise à jour**: 18 Avril 2026  
+**Version**: 1.4  
+**Statut**: ✅ Documentation complète et validée - Organisation automatisée
