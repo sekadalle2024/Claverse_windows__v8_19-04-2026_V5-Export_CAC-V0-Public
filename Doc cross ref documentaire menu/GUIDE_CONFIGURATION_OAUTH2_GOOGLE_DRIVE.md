@@ -28,13 +28,13 @@ Remplir les champs suivants :
 Credential Name: Google Drive OAuth2 (ou un nom de votre choix)
 
 Client ID: 
-670586698862-gbglj4cuefbs6ito0obag1hj86m5sh61.apps.googleusercontent.com
+[YOUR_CLIENT_ID_HERE]
 
 Client Secret: 
-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
+[YOUR_CLIENT_SECRET_HERE]
 
 OAuth Redirect URL:
-https://hkj0631c.rpcl.app/rest/oauth2-credential/callback
+https://your-n8n-instance.app/rest/oauth2-credential/callback
 
 Scopes (ajouter ces 2 scopes):
 https://www.googleapis.com/auth/drive
